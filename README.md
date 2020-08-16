@@ -14,14 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-        <img src="https://github.com/UtkuGlsvn/test/blob/master/codergirl-white-1.png%22%3E
+        <img src="https://cdn.discordapp.com/attachments/740595295804457060/744587884710854696/codergirl-white-1.png
 </div>
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Linkedin Badge](https://img.shields.io/badge/utkuglsvn-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/kubraturker)
