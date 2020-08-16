@@ -1,3 +1,5 @@
+Hi I'm Kübra Bilgisayarlı kız  👋
+
 
 <div align="center">
 		<img src="https://github.com/KubraTurker/KubraTurker/blob/master/codergirl-white-1.png">
