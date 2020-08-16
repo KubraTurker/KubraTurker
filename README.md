@@ -1,4 +1,4 @@
-Hi I'm Kübra Bilgisayarlı kız  👋
+Hi , I’m Kübra   👩🏻‍💻
 
 
 <div align="center">
