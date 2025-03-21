@@ -1,18 +1,9 @@
 **Hi , I’m Kübra**   👩🏻‍💻
 
+a QA Engineer with nearly 4 years of experience. I’ve worked in wide-ranging industries, gaining expertise in automation testing. I primarily work with Python, using Selenium and Pytest to build robust testing frameworks. Feel free to explore my work or reach out with any questions!
 
-<div align="center">
-		<img src="https://github.com/KubraTurker/KubraTurker/blob/master/codergirl-white-1.png">
-</div>
 
 <p float="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KubraTurker&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KubraTurker&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats"/>	
-</p>
-
 [![Linkedin Badge](https://img.shields.io/badge/kubraturker-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kubraturker/)
-
-
 
