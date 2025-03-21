@@ -1,6 +1,6 @@
 **Hi , I’m Kübra**   👩🏻‍💻
 
-a QA Engineer with nearly 4 years of experience. I’ve worked in wide-ranging industries, gaining expertise in automation testing. I primarily work with Python, using Selenium and Pytest to build robust testing frameworks. Feel free to explore my work or reach out with any questions!
+I'm a QA Engineer with nearly 4 years of experience. I’ve worked in wide-ranging industries, gaining expertise in automation testing. I primarily work with Python, using Selenium and Pytest to build robust testing frameworks. Feel free to explore my work or reach out with any questions!
 
 
 <p float="center">
